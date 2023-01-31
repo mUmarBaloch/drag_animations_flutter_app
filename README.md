@@ -1,4 +1,4 @@
-# animated_character_selector
+# Drag and Drop
 
 An app with drag and drop and carousal animations.
 

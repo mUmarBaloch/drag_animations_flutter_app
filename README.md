@@ -1,16 +1,13 @@
 # animated_character_selector
 
-A new Flutter project.
+An app with drag and drop and carousal animations.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is tested on Flutter Web.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/60419352/215651104-4c9cef27-de8a-4664-9043-bd14c790ebe0.mp4
+
